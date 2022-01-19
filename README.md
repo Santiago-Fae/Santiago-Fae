@@ -18,6 +18,7 @@ Hello, welcome and always come back!
  
 💬 If you have questions or want to talk to me:<br>
 <a href = "https://api.whatsapp.com/send?phone= +5554991518114"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <br>
-<a href = "mailto:santiagopoffo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitee" /></a><br>
+<a href = "mailto:santiagopoffo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitee" /></a> <br>
 
-<figure><embed src="https://wakatime.com/share/@Santiago_Fae/25a85fcf-dbcf-4c59-a2a5-f90385516843.svg"></embed></figure>
+<a href="https://wakatime.com"><img style="width:35rem;" src="https://wakatime.com/share/@Santiago_Fae/97e96674-26ba-4824-a011-bf9684dfe209.png" /></a>
+<a href="https://wakatime.com"><img style="width:35rem;" src="https://wakatime.com/share/@Santiago_Fae/367c1460-fb76-46e3-b5b7-2417dda279ef.png" /></a>
