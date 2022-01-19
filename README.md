@@ -20,3 +20,4 @@ Hello, welcome and always come back!
 <a href = "https://api.whatsapp.com/send?phone= +5554991518114"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <br>
 <a href = "mailto:santiagopoffo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitee" /></a><br>
 
+<figure><embed src="https://wakatime.com/share/@Santiago_Fae/25a85fcf-dbcf-4c59-a2a5-f90385516843.svg"></embed></figure>
