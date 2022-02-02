@@ -1,4 +1,4 @@
-Hello, welcome and always come back!
+Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 🔭 I’m currently improving on front-end technologies and design! <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
