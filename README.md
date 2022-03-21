@@ -1,5 +1,5 @@
-Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-
+Hello Human!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<p> I've always enjoyed being logically challenged and when I discovered programming in 2020 I loved it. Since then I started studying Computer Science, I practiced a lot, today I am top 15 at my university in the <a href="https://www.beecrowd.com.br/judge/pt/profile/573539">Beecrowd</a> ranking and i am always ready to learn more. :smile: </p>
 🔭 I’m currently improving on front-end technologies and design! <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -10,11 +10,6 @@ Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mast
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br>
 <br>
-
-🌱 I am also studying automation with Selenium at Phyton. <br>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /> <br>
- <br>
  
 💬 If you have questions or want to talk to me:<br>
 <a href = "https://api.whatsapp.com/send?phone= +5554991518114"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <br>
