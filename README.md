@@ -1,4 +1,4 @@
-Hello Human!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+Hello Human! 
 <p> I've always enjoyed being logically challenged and when I discovered programming in 2020 I loved it. Since then I started studying Computer Science, I practiced a lot, today I am top 15 at my university in the <a href="https://www.beecrowd.com.br/judge/pt/profile/573539">Beecrowd</a> ranking and i am always ready to learn more. :smile: </p>
 🔭 I’m currently improving on front-end technologies and design! <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
