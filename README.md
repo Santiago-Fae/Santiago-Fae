@@ -1,5 +1,5 @@
 Hello Human! 
-<p> I've always enjoyed being logically challenged and when I discovered programming in 2020 I loved it. Since then I started to study Software Engineering, I practiced a lot, today I am top 3 at my university in the <a href="https://www.beecrowd.com.br/judge/pt/profile/573539">Beecrowd</a> ranking and i am always ready to learn more. :smile: </p>
+<p> I've always enjoyed being logically challenged and when I discovered programming in 2020 I loved it. Since then I started to study Software Engineering, I practiced a lot, today. I'm at the top of my university's ranking in the <a href="https://www.beecrowd.com.br/judge/pt/profile/573539">Beecrowd</a> ranking and i am always ready to learn more. :smile: </p>
 
 🔭 I'm a full-stack developer at <a href="https://www.ilex.com.br/">Ilex!</a> <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
