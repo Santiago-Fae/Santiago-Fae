@@ -2,7 +2,7 @@ Hello Human!
 <p> I've always enjoyed being logically challenged and when I discovered programming in 2020 I loved it. Since then I started to study Software Engineering, I practiced a lot, today. 
  Passionate about challenges and new experiences. :smile: </p>
 
-🔭 I'm a full-stack developer at PlanMob! <br>
+🔭 I'm a full-stack developer! <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
